@@ -1,3 +1,3 @@
-const test = "test" ;
-alert("hello world")
-
+const= "test" ;
+alert("привіт")
+alert("hello world") 
